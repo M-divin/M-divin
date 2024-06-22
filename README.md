@@ -1,5 +1,5 @@
 <div align="center" padding="1rm">
-  <img height="100" align="left"  src="https://i.ibb.co/TgFCJwx/lion.png"  />
+  <img height="100" align="left" shape='round' src="https://i.ibb.co/TgFCJwx/lion.png"  />
  <div align="center">
    <h5>I MEHUL SHARMA</h5>
 <h4 align="center"> 👋Hello World!
