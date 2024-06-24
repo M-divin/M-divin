@@ -1,5 +1,5 @@
 <div align="center" padding="1rm">
-👋! Hey there, this is Mehul Sharma, a budding web developer and FOSS enthusiast. In my adventure in the web development world, I started with how code could bring life ideas on the internet. I have been improving my skills in HTML5, CSS3, JavaScript, React for years! js, etc.
+👋! Hey there, this is Mehul Sharma, a budding web developer and FOSS enthusiast. In my adventure in the web development world, I started with how code could bring life ideas on the internet. I have been improving my skills in HTML5, CSS3, JavaScript, React js  etc.
 
 📚 Presently, Under from MCA from Amity University
 
