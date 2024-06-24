@@ -1,12 +1,13 @@
 <div align="center" padding="1rm">
-  <img height="100" align="left" shape='round' src="https://i.ibb.co/TgFCJwx/lion.png"  />
- <div align="center">
-   <h5>I MEHUL SHARMA</h5>
-<h4 align="center"> 👋Hello World!
-  <br>
-I'm a passionate programmer, 📫 with problem solving skills.
-          <br>     💻 Let's explore knowledge form both side.</h4>
-</div>
+👋! Hey there, this is Mehul Sharma, a budding web developer and FOSS enthusiast. In my adventure in the web development world, I started with how code could bring life ideas on the internet. I have been improving my skills in HTML5, CSS3, JavaScript, React for years! js, etc.
+
+📚 Presently, Under from MCA from Amity University
+
+I am more than just coding, love arguing things out and feel just as good delivering work on time in the best quality. I want to surpass your expectations and in return allow you to discover, in life like detail, what you imagined at first thought
+
+Together We Can Create Anything! 🚀 Message me to connect about your idea and how we can make it a reality! 👋
+  
+<dir/>
 <br>
 <hr>
 
